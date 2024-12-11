@@ -1,0 +1,8 @@
+{
+  "name": "random-world-coordinate",
+  "description": "Generate a random coordinate",
+  "dependencies": {
+    "earclip": "^1.1.1",
+    "shapefile": "^0.6.6"
+  }
+}
